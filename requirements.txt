@@ -1,0 +1,6 @@
+os
+dotenv
+streamlit
+unicodedata
+azure-core-credentials
+azure-ai-formrecognizer
