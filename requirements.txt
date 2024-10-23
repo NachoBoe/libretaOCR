@@ -1,6 +1,5 @@
 python-dotenv
 streamlit
-unicodedata
 azure-identitiy
 azure-core
 azure-ai-formrecognizer
