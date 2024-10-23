@@ -1,5 +1,6 @@
-dotenv
+python-dotenv
 streamlit
 unicodedata
-azure-core-credentials
+azure-identitiy
+azure-core
 azure-ai-formrecognizer
