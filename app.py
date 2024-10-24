@@ -13,6 +13,7 @@ load_dotenv(dotenv_path=dotenv_path)
 endpoint = os.getenv("AZURE_DOC_INT_ENDPOINT")
 key = os.getenv("AZURE_DOC_INT_KEY")
 
+
 # Modelo en Azure
 model_id = os.getenv("MODELO")
 
