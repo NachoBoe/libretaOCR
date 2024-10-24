@@ -57,7 +57,7 @@ def main():
         debug_mode = st.checkbox("Debug")
 
     # Definir los campos
-    fields = ["PADRON", "MARCA", "MODELO", "AÑO", "MOTOR", "CHASIS", "MAT.", "TITULAR"]
+    fields = ["PADRON", "MARCA", "MODELO", "AÑO", "MOTOR", "CHASIS", "MATRICULA", "TITULAR"]
 
     # Inicializar el estado de sesión para 'entities'
     if 'entities' not in st.session_state:
